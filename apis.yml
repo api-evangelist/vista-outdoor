@@ -7,4 +7,9 @@ description: 'Profile for Vista Outdoor in the API Evangelist network. Fortune F
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/vistaactionsports
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/vistaoutdoorinc
 apis: []
