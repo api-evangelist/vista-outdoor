@@ -2,7 +2,18 @@ aid: vista-outdoor
 url: https://raw.githubusercontent.com/api-evangelist/vista-outdoor/refs/heads/main/apis.yml
 name: Vista Outdoor
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vista-outdoor.png
 description: 'Profile for Vista Outdoor in the API Evangelist network. Fortune F1000 (rank 976).'
 created: '2026-05-05'
 modified: '2026-05-05'
